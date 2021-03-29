@@ -104,7 +104,7 @@ pycrypto==2.6.1
 pycups==1.9.73
 pyfastnoisesimd==0.4.1
 pygame==1.9.5
-Pygments==2.3.0
+Pygments==2.7.4
 pygobject==3.26.1
 PyInstaller==3.4
 pylint==2.4.4
