@@ -127,7 +127,7 @@ PyYAML==5.3
 pyzmq==17.1.2
 qrangeslider==0.1.1
 qtconsole==4.4.3
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.22.0
 requests-unixsocket==0.1.5
 sbml2matlab==0.9.1
